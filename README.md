@@ -2,7 +2,7 @@
 
 TypeScript + Nestjs + GraphQL + PostgreSQL + TypeORM
 
-- [Get started](/docs/getting-started.md)[Please take a tour]
+- [Get started](/docs/getting-started.md) Please take a tour
 
 ## Requirement
 
