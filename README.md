@@ -2,6 +2,8 @@
 
 TypeScript + Nestjs + GraphQL + PostgreSQL + TypeORM
 
+- [Get started](/docs/getting-started.md)[Please take a tour]
+
 ## Requirement
 
 - [Node.js](https://nodejs.org/): >= 10.13.0
@@ -28,8 +30,6 @@ TypeScript + Nestjs + GraphQL + PostgreSQL + TypeORM
 ## Start working
 
 - ![Working Process](/docs/working-process.png 'Working Process')
-
-- [Get started](/docs/getting-started.md)
 
 ## Setup flow of a project
 
