@@ -12,4 +12,4 @@
 - Node Version Manager [Link](https://github.com/nvm-sh/nvm)
 - Docker [Link](https://www.docker.com/get-started)
 
-> Tiếp theo [Cấu trúc thư mục dự án](/src/docs/structure.md)
+> Tiếp theo [Cấu trúc thư mục dự án](/docs/structure.md)

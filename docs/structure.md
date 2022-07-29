@@ -33,4 +33,4 @@ Fullnode service
 │    └── module-name.module.ts
 ```
 
-> Tiếp theo [Phát triển tính năng](/src/docs/development.md)
+> Tiếp theo [Phát triển tính năng](/docs/development.md)

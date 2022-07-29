@@ -25,6 +25,6 @@ yarn start:prod
 yarn lint
 ```
 
-> Tiếp theo [Code Rules](/src/docs/code-rules.md)
-> Tiếp theo [Best Practice](/src/docs/best-practice.md)
-> Tiếp theo [Deployment](/src/docs/deployment.md)
+> Tiếp theo [Code Rules](/docs/code-rules.md)
+> Tiếp theo [Best Practice](/docs/best-practice.md)
+> Tiếp theo [Deployment](/docs/deployment.md)

@@ -27,9 +27,9 @@ TypeScript + Nestjs + GraphQL + PostgreSQL + TypeORM
 
 ## Start working
 
-- ![Working Process](/src/docs/working-process.png 'Working Process')
+- ![Working Process](/docs/working-process.png 'Working Process')
 
-- [Get started](/src/docs/getting-started.md)
+- [Get started](/docs/getting-started.md)
 
 ## Setup flow of a project
 
