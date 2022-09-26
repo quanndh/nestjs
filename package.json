@@ -1,7 +1,7 @@
 {
-  "name": "fullnode-serivce-api",
+  "name": "nest-base",
   "version": "0.0.1",
-  "description": "Fullnode Service",
+  "description": "base",
   "license": "MIT",
   "scripts": {
     "nest": "nest",
