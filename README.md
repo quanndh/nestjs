@@ -30,7 +30,3 @@ TypeScript + Nestjs + GraphQL + PostgreSQL + TypeORM
 ## Start working
 
 - ![Working Process](/docs/working-process.png 'Working Process')
-
-## Setup flow of a project
-
-![Flow](https://git.appota.com/chainverse/chainverse-fullnode-services/server-api/-/tree/master/src/src/public/flow.png)
